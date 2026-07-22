@@ -166,9 +166,7 @@ Server responds with:
 ## Contributors
 
 - Saadgi Puniwala
-- Sejal
-- Sshyamolika
-- Syed Yonus
+- Sejal Shreya
 ---
 
 *Team InnovateX | MinorProject@2026 | Department of Data Science & Computer Science Engineering*
