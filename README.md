@@ -1,4 +1,5 @@
 # 🌬️ AI Smart Ventilation & Climate Control System
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 An ESP32-powered IoT system that automatically controls window ventilation using real-time environmental sensing and AI-based decision logic.
 
 **Team InnovateX | MinorProject@2026**  
