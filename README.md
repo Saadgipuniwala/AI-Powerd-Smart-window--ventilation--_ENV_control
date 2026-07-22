@@ -163,4 +163,4 @@ Server responds with:
 
 ---
 
-*Team InnovateX | MinorProject@2026 | Department of Electronics & Computer Engineering*
+*Team InnovateX | MinorProject@2026 | Department of Data Science & Computer Science Engineering*
