@@ -161,6 +161,13 @@ Server responds with:
 - **Change ESP32 URL**: Update `state.esp32Url` in `index.html` JavaScript section
 - **Add more sensors**: Extend `SensorData` struct and `readSensors()` function
 
+
+## Contributors
+
+- Saadgi Puniwala
+- Sejal
+- Sshyamolika
+- Syed Yonus
 ---
 
 *Team InnovateX | MinorProject@2026 | Department of Data Science & Computer Science Engineering*
